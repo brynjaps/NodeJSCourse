@@ -1,0 +1,22 @@
+{
+  "name": "git-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brynjaps/NodeJSCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brynjaps/NodeJSCourse/issues"
+  },
+  "homepage": "https://github.com/brynjaps/NodeJSCourse#readme",
+  "dependencies": {
+    "badger-lib": "file:badger-lib"
+  }
+}
